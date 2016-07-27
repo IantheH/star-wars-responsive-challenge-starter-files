@@ -21,8 +21,8 @@
 
 .col-3, .col-4, .col-6, .col-12 {
   float: left;
-  padding-left: 1.04166%;
-  padding-right: 1.04166%;
+  padding-left: 1.0416666%;
+  padding-right: 1.0416666%;
 }
 
 .col-3, .col-4, .col-6, .col-12 {
@@ -35,7 +35,7 @@
   }
 
   .col-4 {
-  	width: 33.33%;
+  	width: 33.333333%;
   }
 
   .col-6 {
